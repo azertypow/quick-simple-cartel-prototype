@@ -1,7 +1,7 @@
 {
   "name": "quick-simple-cartel-protoype",
   "version": "1.0.0",
-  "description": "simple cartel css style for demonstartion",
+  "description": "simple cartel css/sass style for demonstration",
   "main": "dist/index.html",
   "scripts": {
     "test": "empty"
