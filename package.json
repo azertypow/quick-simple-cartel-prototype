@@ -1,0 +1,15 @@
+{
+  "name": "quick-simple-cartel-protoype",
+  "version": "1.0.0",
+  "description": "simple cartel css style for demonstartion",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "empty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "empty"
+  },
+  "author": "",
+  "license": "ISC"
+}
